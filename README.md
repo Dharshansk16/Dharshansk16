@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on Full Stack projects using Django and React.<br>- 🌱 I’m currently learning Machine Learning to enhance my skill set.<br>- 💡 I love exploring new technologies and applying them to solve real-world problems.<br>- 🧩 I have a good hold in Python and problem-solving, and I enjoy tackling complex challenges.
+<br>- 🔭 I’m currently working on Full Stack projects using Django and React.<br>- 🌱 I’m currently learning Machine Learning to enhance my skill set.<br>- 💡 I love exploring new technologies and applying them to solve real-world problems.<br>- 🧩 I have a good hold in Python and problem-solving, and I enjoy tackling complex challenges.<br>
 -📫 How to reach me **dcodecraft@gmail.com**
 
 
