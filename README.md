@@ -1,11 +1,12 @@
 # 💫 About Me:
 <br>- 🔭 I’m currently working on Full Stack projects using Django and React.<br>- 🌱 I’m currently learning Machine Learning to enhance my skill set.<br>- 💡 I love exploring new technologies and applying them to solve real-world problems.<br>- 🧩 I have a good hold in Python and problem-solving, and I enjoy tackling complex challenges.
+-📫 How to reach me **dcodecraft@gmail.com**
 
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharshan s kotian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshan s kotian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dharshan-s-kotian-5053aa280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshan s kotian" height="30" width="40" /></a>
 <a href="https://codesandbox.com/dharshansk16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dharshansk16" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dharshan_s_kotian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharshan_s_kotian" height="30" width="40" /></a>
 </p>
