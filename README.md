@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dharshan S Kotian</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshansk16&label=Profile%20views&color=0e75b6&style=flat" alt="dharshansk16" /> </p>
-
-
 <br>- 🔭 I’m currently working on Full Stack projects using Django and React.<br>- 🌱 I’m currently learning Machine Learning to enhance my skill set.<br>- 💡 I love exploring new technologies and applying them to solve real-world problems.<br>- 🧩 I have a good hold in Python and problem-solving, and I enjoy tackling complex challenges.<br>
 -📫 How to reach me **dcodecraft@gmail.com**
 
