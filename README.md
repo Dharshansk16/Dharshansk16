@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Dharshan S Kotian</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
-<br>- 🔭 I’m currently working on Full Stack projects using Django and React.<br>- 🌱 I’m currently learning Machine Learning to enhance my skill set.<br>- 💡 I love exploring new technologies and applying them to solve real-world problems.<br>- 🧩 I have a good hold in Python and problem-solving, and I enjoy tackling complex challenges.<br>
--📫 How to reach me **dcodecraft@gmail.com**
-
+🔭 Currently working on: Full Stack projects utilizing Django and React.<br>
+🌱 Currently learning: Machine Learning to expand my skill set.<br>
+💡 Interests: Passionate about exploring new technologies and applying them to solve real-world problems.<br>
+🧩 Skills: Proficient in Python and strong problem-solving abilities, with a keen interest in tackling complex challenges.<br>
+📫 Contact: You can reach me at dcodecraft@gmail.com.<br>
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
