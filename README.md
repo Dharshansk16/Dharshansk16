@@ -1,4 +1,6 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7629b5a2-d06d-4222-ac0b-7e99b59e1ffd" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Dharshan S Kotian</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
